@@ -1,27 +1,5 @@
-# RouterAnd404Page
+![Capture](https://user-images.githubusercontent.com/67911302/116405594-74c5cb80-a84d-11eb-9a15-d549058cf068.PNG)
+![ded](https://user-images.githubusercontent.com/67911302/116405672-85764180-a84d-11eb-9172-5dbeff1515db.PNG)
+![Captur](https://user-images.githubusercontent.com/67911302/116405851-bd7d8480-a84d-11eb-96fa-16bf26ef6278.PNG)
+![Capt](https://user-images.githubusercontent.com/67911302/116405892-c8381980-a84d-11eb-8ef0-1fe146c2a1f0.PNG)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
